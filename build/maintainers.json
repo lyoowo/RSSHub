@@ -2478,6 +2478,12 @@
   "/bit/cs": [
     "sinofp"
   ],
+  "/bit/english/:section": [
+    "lyoowo"
+  ],
+  "/bit/isc/:section": [
+    "lyoowo"
+  ],
   "/bit/jwc": [
     "sinofp"
   ],
@@ -4004,6 +4010,9 @@
   "/ftm/": [
     "dzx-dzx"
   ],
+  "/furrycons/:type?": [
+    "lyoowo"
+  ],
   "/futunn/live/:lang?": [
     "kennyfong19931"
   ],
@@ -5190,6 +5199,9 @@
   "/lvv2/top/:channel/:sort?": [
     "Fatpandac"
   ],
+  "/lxgz/:section": [
+    "lyoowo"
+  ],
   "/m-78/news/:category?": [
     "KarasuShin"
   ],
@@ -5280,6 +5292,9 @@
   ],
   "/missav/new": [
     "TonyRL"
+  ],
+  "/missionchinaeu/:section": [
+    "lyoowo"
   ],
   "/mit/scratch/user-projects/:username": [
     "Skota11"
@@ -7077,6 +7092,9 @@
   "/storyfm/index": [
     "sanmmm"
   ],
+  "/studyinchina/:section": [
+    "lyoowo"
+  ],
   "/supchina/": [
     "nczitzk"
   ],
@@ -7832,6 +7850,9 @@
   ],
   "/worldofwarships/devblog": [
     "SinCerely023"
+  ],
+  "/wrsa/:section": [
+    "lyoowo"
   ],
   "/wsj/:lang/:category?": [
     "oppilate"
@@ -9020,6 +9041,9 @@
   ],
   "/gov/beijing/bjedu/gh/:urlPath?": [
     "TonyRL"
+  ],
+  "/gov/beijing/english/:section": [
+    "lyoowo"
   ],
   "/gov/beijing/jw/tzgg": [
     "nczitzk"

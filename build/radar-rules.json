@@ -13118,6 +13118,138 @@
         "target": "/bit/cs"
       }
     ],
+    "english": [
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/latest.html"
+        ],
+        "target": "/bit/bit/english/latest"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/global.html"
+        ],
+        "target": "/bit/bit/english/global"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/gallery.html"
+        ],
+        "target": "/bit/bit/english/gallery"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/academics.html"
+        ],
+        "target": "/bit/bit/english/academics"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/researchhighlights.html"
+        ],
+        "target": "/bit/bit/english/researchhighlights"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/undergraduate.html"
+        ],
+        "target": "/bit/bit/english/undergraduate"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/postgraduate.html"
+        ],
+        "target": "/bit/bit/english/postgraduate"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/summerandwinterprograms.html"
+        ],
+        "target": "/bit/bit/english/summerandwinterprograms"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/exchangeandstudyabroad.html"
+        ],
+        "target": "/bit/bit/english/exchangeandstudyabroad"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/confuciusinstitute.html"
+        ],
+        "target": "/bit/bit/english/confuciusinstitute"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/careers.html"
+        ],
+        "target": "/bit/bit/english/careers"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/whychoosebit.html"
+        ],
+        "target": "/bit/bit/english/whychoosebit"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/officeofadmissions.html"
+        ],
+        "target": "/bit/bit/english/officeofadmissions"
+      }
+    ],
+    "isc": [
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/eventsnotices/index.htm"
+        ],
+        "target": "/bit/bit/isc/eventsnotices"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/Alumninew/xyhd/index.htm"
+        ],
+        "target": "/bit/bit/isc/xyhd"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/Alumninew/xyfc/index.htm"
+        ],
+        "target": "/bit/bit/isc/xyfc"
+      }
+    ],
     "jwc": [
       {
         "title": "教务处通知",
@@ -21210,6 +21342,27 @@
       }
     ]
   },
+  "furrycons.cn": {
+    "_name": "FurryCons",
+    ".": [
+      {
+        "title": "Event List",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/en"
+        ],
+        "target": "/furrycons/furrycons"
+      },
+      {
+        "title": "Event List",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/en/years"
+        ],
+        "target": "/furrycons/furrycons/years"
+      }
+    ]
+  },
   "futunn.com": {
     "_name": "Futubull 富途牛牛",
     "news": [
@@ -26930,6 +27083,67 @@
       }
     ]
   },
+  "lxgz.org.cn": {
+    "_name": "驻法国大使馆教育处",
+    "france": [
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/lxzg/index.html"
+        ],
+        "target": "/lxgz/lxgz/lxzg"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/xwdt/index.html"
+        ],
+        "target": "/lxgz/lxgz/xwdt"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/tzgg/index.html"
+        ],
+        "target": "/lxgz/lxgz/tzgg"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/lxels/index.html"
+        ],
+        "target": "/lxgz/lxgz/lxels"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/zehzjl/index.html"
+        ],
+        "target": "/lxgz/lxgz/zehzjl"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/gjzwjy1/index.html"
+        ],
+        "target": "/lxgz/lxgz/gjzwjy1"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/france/jysx/index.html"
+        ],
+        "target": "/lxgz/lxgz/jysx"
+      }
+    ]
+  },
   "m-78.jp": {
     "_name": "円谷ステーション",
     ".": [
@@ -29657,6 +29871,67 @@
           "/"
         ],
         "target": "/missav/new"
+      }
+    ]
+  },
+  "china-mission.gov.cn": {
+    "_name": "Mission of China to the EU",
+    "eu": [
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/mh/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/mh"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/ChinaEURelations/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/ChinaEURelations"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/ChinaEURelations/PO/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/PO"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/zglx/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/zglx"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/fyrjh/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/fyrjh"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/mhs/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/mhs"
+      },
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/eng/Newsletter/"
+        ],
+        "target": "/missionchinaeu/missionchinaeu/Newsletter"
       }
     ]
   },
@@ -39233,6 +39508,59 @@
       }
     ]
   },
+  "studyinchina.edu.cn": {
+    "_name": "留学中国",
+    "www": [
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/livingInChina/latestNews"
+        ],
+        "target": "/studyinchina/studyinchina/news"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/livingInChina/colorfulActivities?activeId=tab1"
+        ],
+        "target": "/studyinchina/studyinchina/careerfair"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/livingInChina/colorfulActivities?activeId=tab2"
+        ],
+        "target": "/studyinchina/studyinchina/essay"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/livingInChina/colorfulActivities?activeId=tab3"
+        ],
+        "target": "/studyinchina/studyinchina/enterprise"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/livingInChina/colorfulActivities?activeId=tab4"
+        ],
+        "target": "/studyinchina/studyinchina/campus"
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/studyOversea/introductionChineseEducation"
+        ],
+        "target": "/studyinchina/studyinchina/chineseedu"
+      }
+    ]
+  },
   "supchina.com": {
     "_name": "SupChina",
     ".": [
@@ -42297,6 +42625,115 @@
           "/"
         ],
         "target": "/worldofwarships/devblog"
+      }
+    ]
+  },
+  "wrsa.net": {
+    "_name": "欧美同学会（中国留学人员联谊会）",
+    "www": [
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1002153.htm"
+        ],
+        "target": "/wrsa/wrsa/toutiao"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1009087.htm"
+        ],
+        "target": "/wrsa/wrsa/yaowen"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000566.htm"
+        ],
+        "target": "/wrsa/wrsa/huizong"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000591.htm"
+        ],
+        "target": "/wrsa/wrsa/gonggao"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000567.htm"
+        ],
+        "target": "/wrsa/wrsa/gedidongtai"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000568.htm"
+        ],
+        "target": "/wrsa/wrsa/redianjujiao"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000602.htm"
+        ],
+        "target": "/wrsa/wrsa/liuxueshijie"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000571.htm"
+        ],
+        "target": "/wrsa/wrsa/huiyuanfengcai"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000573.htm"
+        ],
+        "target": "/wrsa/wrsa/fuwushehui"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000574.htm"
+        ],
+        "target": "/wrsa/wrsa/minjianwaijiao"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000570.htm"
+        ],
+        "target": "/wrsa/wrsa/zhengcejiedu"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1000583.htm"
+        ],
+        "target": "/wrsa/wrsa/liuxuexinxi"
+      },
+      {
+        "title": "欧美同学会新闻",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/node_1009301.htm"
+        ],
+        "target": "/wrsa/wrsa/haiguigushi"
       }
     ]
   },
@@ -45426,6 +45863,112 @@
   },
   "beijing.gov.cn": {
     "_name": "北京市人民政府",
+    "english": [
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/latest/news/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/news"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/latest/specials/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/specials"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/studyinginbeijing/programsnews/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/programs"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/studyinginbeijing/studentvoice/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/voice"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/whatson/events/exhibition/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/exhibition"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/whatson/events/performance/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/performance"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/whatson/events/sports/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/sports"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/livinginbeijing/transportation/railway/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/railway"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/livinginbeijing/transportation/airport/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/airport"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/travellinginbeijing/routes/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/routes"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/beijinginfo/sci/latesttrends/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/trends"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/consuminginbeijing/news/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/consuming"
+      },
+      {
+        "title": "Beijing Government English Portal",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/workinginbeijing/laborrights/insurance/"
+        ],
+        "target": "/gov/beijing/gov/beijing/english/insurance"
+      }
+    ],
     "jw": [
       {
         "title": "通知公告",

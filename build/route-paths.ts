@@ -364,6 +364,8 @@ export type RoutePath =
   | `/bioone/journals/:journal?`
   | `/biquge/:url{.+}`
   | `/bit/cs`
+  | `/bit/english/:section`
+  | `/bit/isc/:section`
   | `/bit/jwc`
   | `/bit/rszhaopin`
   | `/bit/yjs`
@@ -1068,6 +1070,7 @@ export type RoutePath =
   | `/furaffinity/user/:username`
   | `/furaffinity/watchers/:username`
   | `/furaffinity/watching/:username`
+  | `/furrycons/:type?`
   | `/furstar/archive/:lang?`
   | `/furstar/artists/:lang?`
   | `/furstar/characters/:lang?`
@@ -1201,6 +1204,7 @@ export type RoutePath =
   | `/gov/ah/kjt/:category{.+}?`
   | `/gov/beijing/bjedu/gh/:urlPath?`
   | `/gov/beijing/bphc/:caty`
+  | `/gov/beijing/english/:section`
   | `/gov/beijing/jw/tzgg`
   | `/gov/beijing/kw/:channel`
   | `/gov/caac/cjwt/:category?`
@@ -1852,6 +1856,7 @@ export type RoutePath =
   | `/luxiangdong/archive`
   | `/lvv2/news/:channel/:sort?`
   | `/lvv2/top/:channel/:sort?`
+  | `/lxgz/:section`
   | `/lxixsxa/disco`
   | `/lxixsxa/info`
   | `/m-78/news/:category?`
@@ -1940,6 +1945,7 @@ export type RoutePath =
   | `/mirrormedia/category/:category`
   | `/mirrormedia/section/:section`
   | `/missav/new`
+  | `/missionchinaeu/:section`
   | `/misskey/notes/featured/:site`
   | `/misskey/timeline/home/:site/:routeParams?`
   | `/misskey/users/notes/:username/:routeParams?`
@@ -2746,6 +2752,7 @@ export type RoutePath =
   | `/studygolang/go/:id?`
   | `/studygolang/jobs`
   | `/studygolang/weekly`
+  | `/studyinchina/:section`
   | `/subhd/sub/:category?`
   | `/subhd/zu/:category?`
   | `/substack/subscribe/:user`
@@ -3142,6 +3149,7 @@ export type RoutePath =
   | `/woshipm/popular/:range?`
   | `/woshipm/user_article/:id`
   | `/woshipm/wen`
+  | `/wrsa/:section`
   | `/wsj/:lang/:category?`
   | `/wsyu/news/:type?`
   | `/wtu/:type`
