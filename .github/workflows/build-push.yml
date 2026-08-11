@@ -24,6 +24,9 @@ jobs:
             - name: Set up Docker Buildx
               uses: docker/setup-buildx-action@d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5 # v4.1.0
 
+            - name: Set up QEMU
+              uses: docker/setup-qemu-action@53851d14592f4b59f2e9ae414edc075b335b1b41 # v3.4.0
+
             - name: Log in to the Container registry
               uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
               with:
@@ -46,6 +49,7 @@ jobs:
               with:
                   context: .
                   push: true
+                  platforms: linux/amd64,linux/arm64
                   tags: ${{ steps.meta.outputs.tags }}
                   labels: ${{ steps.meta.outputs.labels }}
                   cache-from: type=gha,scope=myfeed-rsshub
