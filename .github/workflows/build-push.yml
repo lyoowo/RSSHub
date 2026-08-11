@@ -51,6 +51,7 @@ jobs:
                   context: .
                   push: true
                   platforms: ${{ matrix.platform }}
+                  tags: ghcr.io/lyoowo/myfeed-rsshub:sha-${GITHUB_SHA::8}
                   labels: |
                       org.opencontainers.image.source=https://github.com/${{ github.repository }}
                   outputs: type=image,compression=zstd,force-compression=true,push-by-digest=true,name-canonical=true,push=true
